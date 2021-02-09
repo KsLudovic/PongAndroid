@@ -1,7 +1,7 @@
 # PongAndroid
 
 
-Android game made using Processing and ketai dependencies
+Android game made using Processing and ketai dependencies, opponent is a simple AI that only track the position of the ball and react at a certain position 
 
 To run it you'll need to download Processing : https://processing.org/download/
 you'll also need ketai dependencies, to do so, add in Sketch the lib ketai
